@@ -1,4 +1,4 @@
-package revisit.submodule01.lambdaexpressionandfunctionalinterfaces;
+package revisit.submodule01.lambdaexpressions.functionalinterfaces;
 
 import java.util.List;
 import java.util.ArrayList;

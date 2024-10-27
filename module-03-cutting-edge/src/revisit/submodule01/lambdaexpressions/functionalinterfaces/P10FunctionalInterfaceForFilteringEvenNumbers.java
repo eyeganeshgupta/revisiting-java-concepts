@@ -1,4 +1,4 @@
-package revisit.submodule01.lambdaexpressionandfunctionalinterfaces;
+package revisit.submodule01.lambdaexpressions.functionalinterfaces;
 
 @FunctionalInterface
 interface EvenFilter {

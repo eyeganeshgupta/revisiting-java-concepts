@@ -1,4 +1,4 @@
-package revisit.submodule01.lambdaexpressionandfunctionalinterfaces;
+package revisit.submodule01.lambdaexpressions.functionalinterfaces;
 
 interface Greeting {
     void sayHello(String name);
